@@ -1,1 +1,1 @@
-# HSE Lyceum IT projects - AproSystem
+# HSE Lyceum IT Projects - AproSystem
